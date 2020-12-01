@@ -6,4 +6,20 @@
     "sha256_cert_fingerprints":
     ["A6:31:BC:ED:DF:5D:D9:5F:35:88:6E:37:C3:B4:7D:B3:B4:60:DF:20:59:B9:24:BE:4A:A7:6C:BA:4A:1F:17:1C"]
   }
-}] 
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://yanhq0719.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "yqtrack.app",
+    "sha256_cert_fingerprints":
+    ["A6:31:BC:ED:DF:5D:D9:5F:35:88:6E:37:C3:B4:7D:B3:B4:60:DF:20:59:B9:24:BE:4A:A7:6C:BA:4A:1F:17:1C"]
+  }
+}]

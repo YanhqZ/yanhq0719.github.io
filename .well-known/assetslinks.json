@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "yqtrack.app",
-    "sha256_cert_fingerprints":
-    ["70:7D:8E:9F:95:AC:60:3D:4F:21:F8:61:2E:7E:01:C1:21:29:11:BD"]
-  }
-}]
